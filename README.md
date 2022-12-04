@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://blog.skillfactory.ru/kak-novichku-pravilno-oformit-profil-github/?utm_source=crm&utm_medium=mass-msng&utm_campaign=none_coding_all_crm_mass-msng_media_blog_02-12-2022_none_sf_guthub_vk&utm_content=guthub&utm_term=vk
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 <div id="header" align="center">
 	<h1>Hi there 👋 :)</h1>
