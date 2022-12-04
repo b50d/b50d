@@ -30,4 +30,9 @@ https://blog.skillfactory.ru/kak-novichku-pravilno-oformit-profil-github/?utm_so
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="js" width="40" height="40"/>&nbsp;
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b50d&theme=github_dark)
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b50d&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b50d&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b50d&theme=github_dark"/>
+</div>
